@@ -1,0 +1,7 @@
+C# POS 列印樣板的 JSON 元件規格書 [C# 文字版小畫家](JSON component specification sheet for POS printing template)
+
+AI 分析_20260911
+https://chatgpt.com/share/6aa3b2c5-81ec-83ee-b9b0-63b226f1dc6f
+https://grok.com/share/bGVnYWN5LWNvcHk_b58ca5b1-0b0f-4457-9cfd-6cff30b16e6d
+https://www.kimi.ai/share/1a08f732-b3c2-8bea-8000-000020376a83
+https://manus.im/share/kTd3F3HH7MzVytvDuI6Hfc
