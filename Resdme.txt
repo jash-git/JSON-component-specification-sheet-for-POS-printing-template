@@ -5,3 +5,12 @@ https://chatgpt.com/share/6aa3b2c5-81ec-83ee-b9b0-63b226f1dc6f
 https://grok.com/share/bGVnYWN5LWNvcHk_b58ca5b1-0b0f-4457-9cfd-6cff30b16e6d
 https://www.kimi.ai/share/1a08f732-b3c2-8bea-8000-000020376a83
 https://manus.im/share/kTd3F3HH7MzVytvDuI6Hfc
+
+AI 教材_20260911
+我已經按照上面規劃內容 開發出對應的C#解析器和印表範本
+如何對沒有資訊背景的同事說明並教會他們基本的修改 給我一套完整的教學大綱與對應的內容
+
+https://chatgpt.com/share/6aa3ce20-4284-83ee-9e8e-fddb000a6535
+https://grok.com/share/bGVnYWN5LWNvcHk_51d54e28-f4cc-44d8-8b58-68d9c2b0140a
+https://www.kimi.ai/chat/1a08f4dd-0172-8013-8000-09cb5d0c3f4e
+https://manus.im/share/kTd3F3HH7MzVytvDuI6Hfc

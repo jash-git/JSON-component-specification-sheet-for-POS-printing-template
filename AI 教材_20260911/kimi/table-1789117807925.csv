@@ -1,0 +1,11 @@
+﻿章節,內容,時數
+第 1 章,印表機與紙張常識（含「8點=1mm」口訣、字級對照表、Godex 紅燈地雷）,1h
+第 2 章,範本結構 = 倒過來的樹（Page → ChildElements），10 種元件只先記 5 種,1.5h
+第 3 章,座標與對齊，黃金法則：「Y\_Alignment 設 Increment，不要手填 Y」,1.5h
+第 4 章,Text 元件（最常用參數表 + 三種典型修改）,1.5h
+第 5 章,`{$變數}` 佔位符概念與常用變數速查表,1h
+第 6 章,Image / QrCode / BarCode（Logo 標準尺寸 264×88、容錯率一律 H）,1h
+第 7 章,Rows / Block / Table 明細表格與迴圈,2h
+第 8 章,條件顯示（ConditionalKey/Conditional/ConditionalValue，會唸就會用）,2h
+第 9 章,IncludePage（只需「會看」，改動交資訊部門）,1h
+第 10 章,除錯手冊：8 種症狀對照表 + 三步驟 + 修改前檢查清單,1h
